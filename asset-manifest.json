@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Restapi/static/css/main.ba4327dc.css",
+    "main.js": "/Restapi/static/js/main.bfa7f1b2.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Restapi/static/js/787.d4aba7ab.chunk.js",
+    "static/media/SL_121219_26010_26.jpg": "/Restapi/static/media/SL_121219_26010_26.625810fb10e5321b24dd.jpg",
+    "static/media/o1.png": "/Restapi/static/media/o1.101f8471dc8d9c5d5934.png",
+    "static/media/c3.png": "/Restapi/static/media/c3.dc085849ca25375676a3.png",
+    "static/media/m1.jpg": "/Restapi/static/media/m1.0b32b7e1b652b8584db3.jpg",
+    "static/media/m22.jpg": "/Restapi/static/media/m22.e81ad5fddb396abfbee7.jpg",
+    "static/media/4498386.jpg": "/Restapi/static/media/4498386.3f89d29f1339185cded0.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Restapi/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/m66.jpg": "/Restapi/static/media/m66.add42d48d4102f381e14.jpg",
+    "static/media/ms1.jpg": "/Restapi/static/media/ms1.1ef530cad19d743fd773.jpg",
+    "static/media/admin2.png": "/Restapi/static/media/admin2.2fc48e5c7dd2954e3541.png",
+    "static/media/m88.jpg": "/Restapi/static/media/m88.030040239bbb93f19fbc.jpg",
+    "static/media/fontawesome-webfont.eot": "/Restapi/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Restapi/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/angular project logo2.png": "/Restapi/static/media/angular project logo2.2197b057de72b90f5ae9.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Restapi/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Restapi/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/angular_project_logo2-removebg-preview.png": "/Restapi/static/media/angular_project_logo2-removebg-preview.ec96a018b5e6528cf517.png",
+    "static/media/chef.jpg": "/Restapi/static/media/chef.1aa3e6ef338c37edcc48.jpg",
+    "static/media/undraw-contact.svg": "/Restapi/static/media/undraw-contact.40d2e143c895b4abeda84022e82e6013.svg",
+    "index.html": "/Restapi/index.html",
+    "main.ba4327dc.css.map": "/Restapi/static/css/main.ba4327dc.css.map",
+    "main.bfa7f1b2.js.map": "/Restapi/static/js/main.bfa7f1b2.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Restapi/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba4327dc.css",
+    "static/js/main.bfa7f1b2.js"
+  ]
+}
